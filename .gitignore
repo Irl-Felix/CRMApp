@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+bin
+lib
+db.sqlite3
+db.sqlite
+*DS_Store
+pyvenv.cfg
+settingsecurity.py
